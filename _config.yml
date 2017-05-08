@@ -1,11 +1,12 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: Leo's Home
+subtitle: 每天尝试一点新鲜玩意
+welcome_message: 目前就职于杭州思达电子科技发展有限公司<br />任职软件工程师
+description: 嗨, 我是雷梓健(@LibertyLeo)<br />一名90后iOS开发者
+language: zh-hans
+creator: <a href="https://LibertyLeo.github.io">@LibertyLeo</a>
 
-url: "http://vno.onevcat.com"
+url: "https://LibertyLeo.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -13,17 +14,17 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: 
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 博客
+    description: 进入博客
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+    # - {title: 项目, description: 项目列表, url: 'http://project.onevcat.com'}
+    # - {title: 关于, description: 关于我的一点点介绍, url: 'http://example.com'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -32,16 +33,14 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    # disqus: LibertyLeo
     # duoshuo: 
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: zijianlei
+    github: LibertyLeo
+    mail: leoizy@163.com
 
 # Google Analytics
 ga:
