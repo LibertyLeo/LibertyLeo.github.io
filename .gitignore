@@ -1,0 +1,4 @@
+_site
+_sass-cache
+_jekyll-metadata
+build.sh
