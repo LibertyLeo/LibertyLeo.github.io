@@ -1,4 +1,4 @@
 _site
-_sass-cache
+.sass-cache/*
 _jekyll-metadata
 build.sh
